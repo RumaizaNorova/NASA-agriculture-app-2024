@@ -1,7 +1,11 @@
-streamlit>=1.32
-numpy>=2.0
-pandas>=2.2
+streamlit
+numpy
+pandas
 plotly
 scikit-learn
 requests
 matplotlib
+folium
+streamlit-folium
+twilio
+Pillow
