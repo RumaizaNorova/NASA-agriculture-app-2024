@@ -1,8 +1,7 @@
 # 🚀 NASA Agriculture Application
 
 🌍 **Live Demo:**  
-👉 https://nasa-project.streamlit.app/
-
+👉 https://nasa-agriculture-app-2024-q5jw45ndbgh5okkz34mcmz.streamlit.app/
 ---
 
 ## 🌱 Overview
